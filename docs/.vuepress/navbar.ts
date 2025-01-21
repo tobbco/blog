@@ -12,6 +12,18 @@ export const navbar = defineNavbarConfig([
         text: '并发编程', items: [
           {
             text: '线程基础', link: '/notes/并发编程/线程基础.md'
+          },
+          {
+            text: '三大特性', link: '/notes/并发编程/三大特性.md'
+          },
+          {
+            text: '锁', link: '/notes/并发编程/锁.md'
+          },
+          {
+            text: '阻塞队列', link: '/notes/并发编程/阻塞队列.md'
+          },
+          {
+            text: '线程池', link: '/notes/并发编程/线程池.md'
           }
         ]
       },
