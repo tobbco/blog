@@ -11,7 +11,7 @@ export const navbar = defineNavbarConfig([
       {
         text: '并发编程', items: [
           {
-            text: '并发基础', link: '/notes/并发编程/并发基础.md'
+            text: '线程基础', link: '/notes/并发编程/线程基础.md'
           }
         ]
       },
